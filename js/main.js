@@ -11,6 +11,10 @@ const herois = [
    img: "./img/cyborg1.png"},
  { nome: "Mulher Maravilha",
    img: "./img/mulher-maravilha.png"},
+   { nome: "Supergirl",
+   img: "./img/supergirl.png"},
+   { nome: "Batwoman",
+   img: "./img/batwoman.png"},
   ]
   
 
