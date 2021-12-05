@@ -15,6 +15,7 @@ body {
   font-weight: 600;
   text-align: justify;
   color: white;
+  min-height: 100%;
 }
 container {
   align-items: center;
@@ -153,8 +154,25 @@ input {
 }
 
 footer {
-  margin:0;
+  position: absolute; 
+  left: 0;
+  width: 100%; 
+  bottom: 0;
+  height: 100px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle; 
 }
+
+.footer * {
+  vertical-align: middle;
+}
+
+.footer span {
+  display: inline-block;
+  height: 100%;
+}
+
 .page-logo {
   width: 800px;
 }
