@@ -4,4 +4,8 @@
 
 ##
 
+🕹️ LINK PARA O JOGO: https://vivianefariasx.github.io/adivinha-dc/ 
+
+##
+
 
